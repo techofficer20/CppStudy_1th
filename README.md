@@ -3,6 +3,6 @@
 <details>
 <summary>Part 01. C++로의 전환</summary>
 <div markdown="1">
-[] Ch 01. C언어 기반의 C++ 1
+[x] Ch 01. C언어 기반의 C++ 1
 </div>
 </details>
