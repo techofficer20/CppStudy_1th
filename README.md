@@ -6,7 +6,7 @@
 <div markdown="1">
 
 - [x] Ch 01. C언어 기반의 C++ 1
-- [ ] Ch 02. C언어 기반의 C++ 2
+- [x] Ch 02. C언어 기반의 C++ 2
 
 </div>
 </details>
