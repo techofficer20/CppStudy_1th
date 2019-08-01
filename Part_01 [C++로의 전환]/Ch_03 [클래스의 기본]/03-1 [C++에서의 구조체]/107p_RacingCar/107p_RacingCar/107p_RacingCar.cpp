@@ -14,7 +14,7 @@ struct Car
 	int curSpeed; // 현재 속도
 };
 
-void ShowCarState(const Car& car)
+void ShowCarState(const Car& car) //  단순히 정보만을 출력하기 때문에 const 참조자를 매개변수로 선언함
 {
 	cout << "소유자ID: " << car.gamerID << endl;
 	cout << "연료량: " << car.fuelGauge << "%" << endl;
