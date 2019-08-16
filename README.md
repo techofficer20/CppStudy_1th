@@ -16,7 +16,7 @@
 <div markdown="1">
 
 - [x] Ch 03. 클래스의 기본
-- [ ] Ch 04. 클래스의 완성
+- [x] Ch 04. 클래스의 완성
 - [ ] Ch 05. 복사 생성자
 - [ ] Ch 06. friend와 static 그리고 const
 
